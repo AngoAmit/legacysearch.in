@@ -1,4 +1,4 @@
-// Legacy Search Capital — production JS
+// Legacy Search — production JS
 (function(){
   // Current year in footer
   const y = document.getElementById('year');

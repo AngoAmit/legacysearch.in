@@ -1,4 +1,4 @@
-# Legacy Search Capital — Website
+# Legacy Search — Website
 
 A fast, elegant, all‑black single‑page site designed for GitHub Pages + custom domain.
 
@@ -22,8 +22,8 @@ Just open `index.html` in a browser.
 
 ## Deploy on GitHub Pages
 
-1. Create a new repo named `legacysearchcapital.com` (or any repo).
-2. Upload all files at the repo root (keep `CNAME` as `legacysearchcapital.com`).
+1. Create a new repo named `legacysearch.in` (or any repo).
+2. Upload all files at the repo root (keep `CNAME` as `legacysearch.in`).
 3. In **Settings → Pages**, set:
    - Source: **Deploy from a branch**
    - Branch: `main` → `/root`
@@ -31,6 +31,6 @@ Just open `index.html` in a browser.
 
 ## Connect your Domain (Hostinger)
 
-- Point `A` record of `legacysearchcapital.com` to: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`
+- Point `A` record of `legacysearch.in` to: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`
 - Optional `CNAME` for `www`: `yourusername.github.io.`
-- Keep the `CNAME` file in the repo with `legacysearchcapital.com` inside.
+- Keep the `CNAME` file in the repo with `legacysearch.in` inside.

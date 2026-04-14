@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://legacysearchcapital.com/sitemap.xml
+Sitemap: https://legacysearch.in/sitemap.xml
