@@ -1,0 +1,4 @@
+project_id = "legacy-search"
+[functions.enquiries]
+verify_jwt = false
+

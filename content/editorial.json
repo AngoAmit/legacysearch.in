@@ -1,0 +1,436 @@
+{
+  "categories": [
+    {
+      "id": "ownership",
+      "title": "Ownership and succession",
+      "types": [
+        {
+          "id": "succession-led-acquisitions",
+          "title": "Succession-led acquisitions",
+          "definition": "An owner hands the business to a successor who can carry its people, knowledge and customer relationships forward.",
+          "suitable": "Founders and families weighing who should lead next.",
+          "objectives": "Protect continuity, agree the founder’s future role and plan the handover.",
+          "role": "We discuss what the family wants to preserve, identify potential successors and plan introductions around the owner’s preferences.",
+          "audience": "owner"
+        },
+        {
+          "id": "business-exits",
+          "title": "Full and majority business exits",
+          "definition": "A sale of the entire business or a controlling stake, with scope for the owner to retain an agreed interest.",
+          "suitable": "Owners considering retirement, a change of role or a partial exit.",
+          "objectives": "Choose how much to sell, what involvement to retain and which buyer fits.",
+          "role": "We compare ownership routes, agree an approach to buyers and coordinate diligence with the owner’s advisers.",
+          "audience": "owner"
+        },
+        {
+          "id": "family-to-family-acquisitions",
+          "title": "Family-to-family acquisitions",
+          "definition": "One business family acquires an enterprise from another, often with a shared interest in long-term ownership.",
+          "suitable": "Business families seeking a successor or an adjacent business to own.",
+          "objectives": "Find alignment on culture, stewardship and the outgoing family’s involvement.",
+          "role": "We discuss both families’ priorities and bring them together when expectations on control and continuity align.",
+          "audience": "owner"
+        },
+        {
+          "id": "business-continuity",
+          "title": "Business continuity planning",
+          "definition": "Preparation for a transfer of ownership while the business keeps serving customers and supporting its team.",
+          "suitable": "Owners whose relationships or operating decisions still depend heavily on them.",
+          "objectives": "Identify key dependencies and agree which responsibilities transfer first.",
+          "role": "We work through the handover with the owners and incoming team, alongside their professional advisers.",
+          "audience": "owner"
+        },
+        {
+          "id": "management-led-transitions",
+          "title": "Management-led ownership transitions",
+          "definition": "An existing management team explores taking ownership of the business it already runs.",
+          "suitable": "Experienced managers and owners who want continuity in day-to-day leadership.",
+          "objectives": "Keep operating knowledge in place and clarify future ownership and governance.",
+          "role": "We help the parties define their objectives, explore suitable funding relationships and coordinate the transaction process.",
+          "audience": "operator"
+        },
+        {
+          "id": "entrepreneurship-through-acquisition",
+          "title": "Entrepreneurship through acquisition",
+          "definition": "An entrepreneur buys and runs an established company, building on its existing team, customers and operations.",
+          "suitable": "Operators, industry specialists and searchers who want to become business owners.",
+          "objectives": "Find a business that fits the operator’s skills and the founder’s succession priorities.",
+          "role": "We help define a search, identify relevant businesses and introduce aligned owners or capital partners where appropriate.",
+          "audience": "operator"
+        }
+      ]
+    },
+    {
+      "id": "corporate",
+      "title": "Corporate growth and strategic acquisitions",
+      "types": [
+        {
+          "id": "business-to-business-acquisitions",
+          "title": "Business-to-business acquisitions",
+          "definition": "An established company buys another operating business to add a product, capability or customer base.",
+          "suitable": "Promoter-led groups and companies pursuing an acquisition within or alongside their existing operations.",
+          "objectives": "Bring complementary activities under shared ownership and assess how the businesses could work together.",
+          "role": "We translate the buyer’s requirements into a target profile, qualify potential sellers and coordinate introductions.",
+          "audience": "acquirer"
+        },
+        {
+          "id": "strategic-buyouts",
+          "title": "Strategic buyouts",
+          "definition": "A corporate buyer takes control of a business that advances a specific growth priority.",
+          "suitable": "Corporate development teams and strategic buyers with a defined capability gap.",
+          "objectives": "Add capacity, enter a product line or secure a critical part of the supply chain.",
+          "role": "We map potential targets to the buyer’s priorities and help both sides evaluate the fit before diligence.",
+          "audience": "acquirer"
+        },
+        {
+          "id": "roll-ups-and-consolidation",
+          "title": "Roll-ups and consolidation",
+          "definition": "A buyer acquires several complementary businesses around a shared operating platform.",
+          "suitable": "Acquisition teams building a group in a fragmented industry.",
+          "objectives": "Build scale across locations or specialties while assessing how each acquisition can be integrated.",
+          "role": "We define the acquisition criteria, identify potential anchor and add-on businesses, and coordinate discussions with owners.",
+          "audience": "acquirer"
+        },
+        {
+          "id": "sector-consolidation",
+          "title": "Sector consolidation",
+          "definition": "A business combines with peers in the same industry to deepen its market coverage.",
+          "suitable": "Established sector participants seeking greater density or a broader customer mix.",
+          "objectives": "Evaluate overlapping capacity, complementary accounts and integration priorities.",
+          "role": "We map the sector, screen businesses against the mandate and facilitate discussions with interested owners.",
+          "audience": "acquirer"
+        },
+        {
+          "id": "geographic-expansion",
+          "title": "Geographic expansion",
+          "definition": "A buyer enters a new region through an established local business.",
+          "suitable": "Companies seeking regional distribution, operating capacity or customer access.",
+          "objectives": "Understand the value of local relationships, routes to market and regional management.",
+          "role": "We source within the target geography and qualify local businesses against the buyer’s expansion brief.",
+          "audience": "acquirer"
+        },
+        {
+          "id": "corporate-deal-scouting",
+          "title": "Corporate deal scouting",
+          "definition": "A focused search for potential acquisitions against a company’s own buying criteria.",
+          "suitable": "Corporate development teams with a defined mandate and limited local coverage.",
+          "objectives": "Find relevant off-market businesses and understand owner interest before committing resources.",
+          "role": "We agree a search brief, use our origination network to identify prospects and bring forward qualified introductions.",
+          "audience": "acquirer"
+        }
+      ]
+    },
+    {
+      "id": "capital",
+      "title": "Capital-led acquisitions",
+      "types": [
+        {
+          "id": "private-equity-buyouts",
+          "title": "Private equity buyouts",
+          "definition": "A private equity investor acquires a controlling interest in an established company.",
+          "suitable": "Buyout investors with a defined mandate and owners open to institutional ownership.",
+          "objectives": "Align sector, size, control requirements and plans for the business.",
+          "role": "We source against the investment mandate and coordinate introductions and transaction discussions.",
+          "audience": "investor"
+        },
+        {
+          "id": "micro-private-equity",
+          "title": "Micro private equity",
+          "definition": "An acquisition investor focuses on smaller established businesses, often with hands-on ownership.",
+          "suitable": "Specialist buyout firms and acquisition investors with a clear operating thesis.",
+          "objectives": "Find businesses where the investor’s sector knowledge or operating partners could contribute.",
+          "role": "We screen for ownership fit, understand founder priorities and identify relevant operating relationships.",
+          "audience": "investor"
+        },
+        {
+          "id": "family-office-acquisitions",
+          "title": "Family office-led acquisitions",
+          "definition": "A family office acquires a direct ownership stake in an operating business.",
+          "suitable": "Family offices and investment holding companies seeking direct business ownership.",
+          "objectives": "Match sector knowledge, preferred control and intended holding horizon.",
+          "role": "We work from the family’s mandate and introduce owners whose objectives fit its approach.",
+          "audience": "investor"
+        },
+        {
+          "id": "investor-backed-transitions",
+          "title": "Investor-backed ownership transitions",
+          "definition": "An investor supports a change of ownership with an incoming operator or an existing management team.",
+          "suitable": "Investors, operators and founders exploring a shared transition.",
+          "objectives": "Align financial participation, management responsibility and decision-making before an acquisition.",
+          "role": "We identify relevant counterparties and help the parties clarify roles before detailed evaluation.",
+          "audience": "investor"
+        },
+        {
+          "id": "search-fund-acquisitions",
+          "title": "Search fund-backed acquisitions",
+          "definition": "A search entrepreneur pursues an established business with the support of acquisition investors.",
+          "suitable": "Search fund teams and investors who back entrepreneurs to own and operate companies.",
+          "objectives": "Find an owner willing to transition and a business suited to the incoming leader.",
+          "role": "We help refine search criteria, surface relevant businesses and coordinate discussions among owners, searchers and investors.",
+          "audience": "operator"
+        }
+      ]
+    },
+    {
+      "id": "cross-border",
+      "title": "Cross-border acquisitions",
+      "types": [
+        {
+          "id": "foreign-buyouts",
+          "title": "Foreign buyouts",
+          "definition": "An overseas buyer acquires an Indian business, subject to applicable legal, tax and regulatory requirements.",
+          "suitable": "International strategic buyers, investment firms and business families evaluating Indian ownership opportunities.",
+          "objectives": "Assess local fit and align ownership, diligence and transition expectations.",
+          "role": "We originate Indian businesses against the buyer’s brief and coordinate discussions alongside qualified advisers.",
+          "audience": "acquirer"
+        },
+        {
+          "id": "international-strategic-acquisitions",
+          "title": "International strategic acquisitions",
+          "definition": "A corporate acquirer seeks an Indian business that complements its global operations.",
+          "suitable": "International manufacturers and service businesses with a specific capability requirement.",
+          "objectives": "Evaluate manufacturing depth, talent, suppliers or complementary product lines in India.",
+          "role": "We assess the industrial fit, establish owner interest and support coordination across the two teams.",
+          "audience": "acquirer"
+        },
+        {
+          "id": "india-market-entry",
+          "title": "India market entry through acquisition",
+          "definition": "An international buyer establishes a local presence by acquiring an existing Indian operation.",
+          "suitable": "Businesses comparing acquisition with building a local operation from the ground up.",
+          "objectives": "Assess customers, operating capacity and leadership already in place.",
+          "role": "We define the India entry brief and identify businesses whose footprint fits the buyer’s plans.",
+          "audience": "acquirer"
+        },
+        {
+          "id": "cross-border-sourcing",
+          "title": "Cross-border sourcing relationships",
+          "definition": "An overseas acquisition team works with a local origination partner to identify potential businesses in India.",
+          "suitable": "International acquisition teams seeking local access and context.",
+          "objectives": "Build a relevant target list and establish whether owners are open to a conversation.",
+          "role": "We connect the search brief with our pan-India origination network and qualify opportunities before introductions.",
+          "audience": "acquirer"
+        },
+        {
+          "id": "international-partnerships",
+          "title": "India, UAE and Singapore partnerships",
+          "definition": "A focused partner search across our three-market network supports an India-related acquisition mandate.",
+          "suitable": "Buyers, advisers and investors with a specific cross-border requirement.",
+          "objectives": "Identify counterparties with relevant sector expertise, capital or operating capabilities.",
+          "role": "We clarify the mandate and facilitate relevant introductions. Each party evaluates suitability with its own advisers.",
+          "audience": "investor"
+        }
+      ]
+    }
+  ],
+  "audiences": [
+    {
+      "id": "owner",
+      "short": "Business owners",
+      "title": "You've spent years building it. Let's find the right next chapter.",
+      "intro": "A change of ownership begins with a question about the future. Whether you founded the company or are thinking about succession with your family, your priorities shape the conversation.",
+      "services": [
+        "Explore a full exit, a majority sale or a strategic partnership.",
+        "Decide what matters for your employees, customers and family after a sale.",
+        "Discuss appropriate successors and agree how and when introductions should happen.",
+        "Coordinate diligence, negotiations and a considered handover with your advisers."
+      ],
+      "journey": [
+        "Confidential conversation",
+        "Understand your objectives",
+        "Evaluate ownership options",
+        "Identify suitable counterparties",
+        "Facilitate execution"
+      ],
+      "faqs": [
+        {
+          "q": "What if our family is still deciding?",
+          "a": "Start with the questions you are considering. We can explore what a successor, strategic buyer or continuing family role might look like before you settle on a route."
+        },
+        {
+          "q": "What should I share at the beginning?",
+          "a": "Your sector, location, broad revenue range and what you would like to explore are enough. You can choose to discuss revenue privately and keep detailed financials for a later conversation."
+        },
+        {
+          "q": "When would a buyer learn our identity?",
+          "a": "We first discuss your disclosure preferences and the purpose of an introduction. Sensitive information belongs in a later, agreed exchange with appropriate confidentiality arrangements."
+        }
+      ],
+      "cta": "Discuss your business confidentially"
+    },
+    {
+      "id": "acquirer",
+      "short": "Corporate acquirers",
+      "title": "Your next stage of growth may already exist.",
+      "intro": "A company you acquire could bring a manufacturing capability, a distribution network or the team to enter a new region. We work with promoters, corporate development teams and international strategics to define what a target must add.",
+      "services": [
+        "Translate your growth priority into a focused acquisition brief.",
+        "Originate off-market targets by sector, capability, geography and size.",
+        "Explore vertical integration, complementary product lines and sector consolidation.",
+        "Qualify owner interest and coordinate introductions and transaction workstreams."
+      ],
+      "journey": [
+        "Define your acquisition thesis",
+        "Targeted origination",
+        "Qualify opportunities",
+        "Meet the owner",
+        "Transaction support"
+      ],
+      "faqs": [
+        {
+          "q": "What makes an acquisition brief useful?",
+          "a": "Specify the capability or market you want to add, target geography, indicative budget and preferred level of control. Identify the one or two criteria a target must meet."
+        },
+        {
+          "q": "Can we search for a series of acquisitions?",
+          "a": "Yes. We can help distinguish the first platform business from later additions, then qualify targets against a common roll-up or consolidation strategy."
+        },
+        {
+          "q": "Can an overseas corporate submit a mandate?",
+          "a": "Yes. Share the India entry or expansion objective and the kind of local business you are seeking. Cross-border structures require assessment by qualified legal, tax and regulatory advisers."
+        }
+      ],
+      "cta": "Share your acquisition thesis"
+    },
+    {
+      "id": "investor",
+      "short": "Investors & family offices",
+      "title": "Capital meets businesses worth building upon.",
+      "intro": "A family office investing its own capital approaches ownership differently from a buyout fund or an operator-backed holding company. We start with your mandate, intended role and the businesses you know best.",
+      "services": [
+        "Source established businesses against your ownership and sector preferences.",
+        "Explore direct acquisitions, investor-backed operators and search fund relationships.",
+        "Identify potential partners for India-focused acquisition strategies.",
+        "Coordinate introductions for your independent evaluation and diligence."
+      ],
+      "journey": [
+        "Understand your investment mandate",
+        "Identify potential fit",
+        "Qualified introductions",
+        "Independent evaluation",
+        "Transaction support"
+      ],
+      "faqs": [
+        {
+          "q": "Who can share investment preferences?",
+          "a": "Family offices, private equity and micro private equity firms, holding companies, search fund investors, experienced individual investors and international investment teams can share a mandate."
+        },
+        {
+          "q": "Am I subscribing to an investment?",
+          "a": "This enquiry starts an advisory conversation about your acquisition interests. Legacy Search facilitates introductions and transaction processes. Each investor independently assesses any opportunity."
+        },
+        {
+          "q": "Can we explore an operator-backed acquisition?",
+          "a": "Tell us the sectors you understand, your preferred role and the operator experience you seek. We can assess relevant business and operating relationships against those criteria."
+        }
+      ],
+      "cta": "Share your investment preferences"
+    },
+    {
+      "id": "operator",
+      "short": "Entrepreneurs & operators",
+      "title": "You don't always have to build from zero.",
+      "intro": "Entrepreneurship through acquisition means buying a company and running it. An established business brings customers, a team and years of operating knowledge. Your experience shapes what you can contribute as its next owner.",
+      "services": [
+        "Define a search around your operating experience and sector knowledge.",
+        "Explore acquiring and running a business independently or with investor backing.",
+        "Consider management-led buyouts and founder succession opportunities.",
+        "Meet owners and potential partners where your ambitions and capabilities align."
+      ],
+      "journey": [
+        "Understand your operating experience",
+        "Define acquisition interests",
+        "Assess alignment",
+        "Explore opportunities and partnerships"
+      ],
+      "faqs": [
+        {
+          "q": "Do I need a search fund to start?",
+          "a": "You can begin as an independent operator, entrepreneur, senior executive or industry specialist. Tell us the business you would be equipped to lead and what support you would need."
+        },
+        {
+          "q": "What should I include about my background?",
+          "a": "Share the sectors, teams, plants, products or business units you have run, along with your preferred region and level of ownership involvement."
+        },
+        {
+          "q": "What happens after I enquire?",
+          "a": "We review your interests for fit with owners, businesses or potential partners. Conversations depend on mutual interest. Employment, funding and an acquisition are not guaranteed."
+        }
+      ],
+      "cta": "Explore becoming an acquisition entrepreneur"
+    },
+    {
+      "id": "scout",
+      "short": "Deal scouts & partners",
+      "title": "Opportunity is everywhere. Help us discover it.",
+      "intro": "Industry professionals often hear a founder’s succession question long before a sale process begins. Our pan-India network of 250+ active deal scouts connects that local knowledge with an acquisition team.",
+      "services": [
+        "Introduce an owner considering a transition or a corporate with an acquisition brief.",
+        "Identify acquisition-oriented investors and industry-specific consolidation opportunities.",
+        "Bring context from your work as an adviser, chartered accountant, consultant or industry professional.",
+        "Agree the scope of collaboration and introduction terms before sharing an opportunity."
+      ],
+      "journey": [
+        "Register interest",
+        "Profile evaluation",
+        "Onboarding and agreed terms",
+        "Introduce an opportunity",
+        "Qualification",
+        "Collaboration"
+      ],
+      "faqs": [
+        {
+          "q": "Can I introduce a single opportunity?",
+          "a": "Yes. Use “Introduce an opportunity” and describe the sector, geography and broad ownership objective. Keep identifying details private until you have permission to share them."
+        },
+        {
+          "q": "Who can join the network?",
+          "a": "We welcome industry professionals, business advisers, entrepreneurs, association members and people developing an interest in M&A origination. We review each profile for fit."
+        },
+        {
+          "q": "How are commercial terms decided?",
+          "a": "Any commercial arrangement is governed by separately agreed terms. The introductory conversation establishes your role, the scope of work and how an opportunity will be evaluated."
+        }
+      ],
+      "cta": "Become a deal scout"
+    }
+  ],
+  "sectors": [
+    {
+      "title": "Manufacturing and industrials",
+      "detail": "Plant capability, capacity, customer relationships and the operating team that keeps production moving."
+    },
+    {
+      "title": "Chemicals and specialty materials",
+      "detail": "Product mix, process knowledge, customer qualifications and the facilities needed to meet them."
+    },
+    {
+      "title": "Healthcare and pharmaceuticals",
+      "detail": "Service footprint, manufacturing capability, quality systems and continuity of operations."
+    },
+    {
+      "title": "Education",
+      "detail": "Institutional continuity, leadership, facilities and relationships with students and families."
+    },
+    {
+      "title": "Automotive and engineering",
+      "detail": "Component capability, customer programmes, tooling and the depth of engineering talent."
+    },
+    {
+      "title": "Consumer businesses",
+      "detail": "Brand strength, distribution reach, repeat demand and the economics of individual channels."
+    },
+    {
+      "title": "Logistics and distribution",
+      "detail": "Route density, customer contracts, fleet requirements and the reach of the distribution network."
+    },
+    {
+      "title": "Technology and business services",
+      "detail": "Client relationships, recurring work, specialist talent and the delivery model behind the business."
+    },
+    {
+      "title": "Hospitality and commercial assets",
+      "detail": "Property operations, operator agreements, location economics and the intended ownership structure."
+    }
+  ]
+}

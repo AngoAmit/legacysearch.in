@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://legacysearch.in/sitemap.xml
