@@ -1,5 +1,5 @@
 export const config = {
-  "endpoint": "https://gdwzteuatjkizjcpeajv.supabase.co/functions/v1/enquiries",
+  "endpoint": "",
   "transactions": {
     "succession-led-acquisitions": {
       "title": "Succession-led acquisitions",
